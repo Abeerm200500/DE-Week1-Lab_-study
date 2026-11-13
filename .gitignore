@@ -1,0 +1,12 @@
+# Your real settings and passwords: never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db

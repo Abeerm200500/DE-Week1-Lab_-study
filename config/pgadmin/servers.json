@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "market-db",
+      "Group": "The Market",
+      "Host": "market-db",
+      "Port": 5432,
+      "MaintenanceDB": "market",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}

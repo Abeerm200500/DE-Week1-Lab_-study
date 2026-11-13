@@ -1,0 +1,7 @@
+# Install with:  py -3.11 -m pip install -r requirements.txt   (Mac: python3.11 -m pip install -r requirements.txt)
+# Each lab adds the packages it needs. Re-run the command above whenever this file changes.
+
+# Lab 2: connect to the databases and read .env
+psycopg2-binary==2.9.10
+pymongo==4.10.1
+python-dotenv==1.0.1
